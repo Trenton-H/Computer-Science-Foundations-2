@@ -1,0 +1,97 @@
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 1
+
+      1122    10    11.89 SamsungCaptivate
+      1234     3    99.95 iPhone3GS
+      2687    12   599.00 MacbookAir
+      5365     5   349.99 IPhone6
+      7862    17    89.99 GoogleNexus7
+      8787     1    40.50 BlackberryBold
+      9999     3   599.99 IPadAir2
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 2
+Enter sku of product to find: 8787
+
+product name: BlackberryBold
+sku: 8787
+quantity: 1
+price: 40.50
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 2
+Enter sku of product to find: 1234
+
+product name: iPhone3GS
+sku: 1234
+quantity: 3
+price: 99.95
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 2   
+Enter sku of product to find: 2222
+
+No product found with this sku. 
+
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 3
+Enter product name of product to find: BlackberryBold
+
+product name: BlackberryBold
+sku: 8787
+quantity: 1
+price: 40.50
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 3
+Enter product name of product to find: GoogleNexus10
+
+No product found with this product name. 
+
+
+Manage Inventory Menu
+
+1. Display inventory sorted by sku
+2. Lookup a product by sku
+3. Lookup a product by name
+4. Quit the Program
+
+Enter your choice: 4
+Exiting the program.
